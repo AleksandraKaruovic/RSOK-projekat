@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{g as e,o as n,l as r}from"./app-BwGf_VIS.js";const s={},a={class:"bg-indigo-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition"};function c(t,i){return n(),e("button",a,[r(t.$slots,"default")])}const d=o(s,[["render",c]]);export{d as P};

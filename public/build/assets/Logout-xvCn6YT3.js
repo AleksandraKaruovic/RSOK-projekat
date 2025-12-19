@@ -1,0 +1,1 @@
+import{C as e,g as n,o as c}from"./app-BwGf_VIS.js";const p={__name:"Logout",setup(s){const o=e();function t(){o.post(route("logout"),{onSuccess:()=>{}})}return(u,r)=>(c(),n("button",{onClick:t,type:"button",class:"bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-4 py-2 rounded"}," Log Out "))}};export{p as default};

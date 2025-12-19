@@ -1,0 +1,1 @@
+import{a as e}from"./PrimaryButton-CyZmB7vp.js";import{C as o,c as s,o as a,w as r,l as c}from"./app-BwGf_VIS.js";const m={__name:"DeleteButton",props:{job:Object},setup(n){return o(),(t,_)=>(a(),s(e,{type:"button",class:"text-red-500 text-sm font-bold"},{default:r(()=>[c(t.$slots,"default")]),_:3}))}};export{m as _};

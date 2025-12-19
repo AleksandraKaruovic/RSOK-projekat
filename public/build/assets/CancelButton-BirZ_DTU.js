@@ -1,0 +1,1 @@
+import{a as r}from"./PrimaryButton-CyZmB7vp.js";import{c as a,o as n,w as c,l as i,W as l}from"./app-BwGf_VIS.js";const _={__name:"CancelButton",props:{href:String},setup(e){const t=e;function o(){t.href&&l.visit(t.href)}return(s,f)=>(n(),a(r,{type:"button",onClick:o,class:"text-sm font-semibold text-gray-900"},{default:c(()=>[i(s.$slots,"default")]),_:3}))}};export{_};
